@@ -62,17 +62,57 @@ body {
   
 
 } */
-.Cellular_Connection-path1  {
+.Cellular_Connection-path1 {
     position: absolute;
     width: 3px;
     height: 4px;
     right: 78.33px;
     top: 24.33px;
-    fill: solid;
-    color: #ffffff;
-    
+    left: 293.67px;
+    background: #ffffff;   
+}
+.Cellular_Connection-path2 {
+    position: absolute;
+    width: 3px;
+    height: 6px;
+    top: 22.33px;
+    left: 298.33px;
+    right: 73.67px;
+    background: #ffffff;   
 }
 
+.Cellular_Connection-path3 {
+    position: absolute;
+    width: 3px;
+    height: 8.33px;
+    top: 20px;
+    left: 303px;
+    right: 69px;
+    background: #ffffff;   
+}
+
+.Cellular_Connection-path4 {
+    position: absolute;
+    width: 3px;
+    height: 10.67px;
+    top: 17.67px;
+    left: 307.67px;
+    right: 64.33px;
+    background: #ffffff;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
 .Cellular_Connection-path2  {
     position: absolute;
     width: 3px;
@@ -80,4 +120,4 @@ body {
     right: 73.67px;
     top: 73.67px;
     color: #ffffff;
-}
+} */
