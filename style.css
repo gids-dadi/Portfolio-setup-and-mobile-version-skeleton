@@ -101,6 +101,40 @@ body {
     background: #ffffff;   
 }
 
+.wifi-path1 {
+    position: absolute;
+    width: 4.63px;
+    height: 3.37px;
+    top: 24.92px;
+    left: 321.02px;
+    right: 49.36px;
+ 
+    border-radius: 25%;
+    background: #ffffff;
+}
+
+.wifi-path2 {
+    position: absolute;
+    width: 9.95px;
+    height: 3.63px;
+    top: 21.12px;
+    left: 321.02px;
+    right: 46.69px;
+    border-radius: 25%;
+    background: #ffffff;
+}
+
+.wifi-path3 {
+    position: absolute;
+    width: 15.27px;
+    height: 4.74px;
+    top: 17.33px;
+    left: 315.69px;
+    right: 44.03px;
+    border-radius: 25%;
+    background: #ffffff;
+}
+
 
 
 
