@@ -89,7 +89,7 @@ opacity: 0.35;
 border: 1px solid #ffffff;
 box-sizing: border-box;
 }
-.battery-capacity{
+.battery-capacity {
  position: absolute;
  width: 18px;
 height: 7.33px;
