@@ -1,6 +1,6 @@
 * {
-  padding: 0px;
-  margin: 0px;
+  padding: 0;
+  margin: 0;
 }
 
 body {
@@ -23,8 +23,8 @@ body {
   position: absolute;
   width: 420px;
   height: 92px;
-  left: 0px;
-  top: 0px;
+  left: 0;
+  top: 0;
   display: flex;
   align-items: center;
   text-align: center;
@@ -53,7 +53,7 @@ body {
   right: 78.33px;
   top: 24.33px;
   left: 293.67px;
-  background: #ffffff;
+  background: #fff;
 }
 
 .Cellular_Connection-path2 {
@@ -63,7 +63,7 @@ body {
   top: 22.33px;
   left: 298.33px;
   right: 73.67px;
-  background: #ffffff;
+  background: #fff;
 }
 
 .Cellular_Connection-path3 {
@@ -73,7 +73,7 @@ body {
   top: 20px;
   left: 303px;
   right: 69px;
-  background: #ffffff;
+  background: #fff;
 }
 
 .Cellular_Connection-path4 {
@@ -83,7 +83,7 @@ body {
   top: 17.67px;
   left: 307.67px;
   right: 64.33px;
-  background: #ffffff;
+  background: #fff;
 }
 
 .battery-border {
@@ -96,7 +96,7 @@ body {
   border-radius: 2.66px;
   mix-blend-mode: normal;
   opacity: 0.35;
-  border: 1px solid #ffffff;
+  border: 1px solid #fff;
   box-sizing: border-box;
 }
 
@@ -108,7 +108,7 @@ body {
   top: 19.33px;
   right: 17px;
   border-radius: 1.33px;
-  background: #ffffff;
+  background: #fff;
   border-radius: 1.33333px;
 }
 
@@ -118,10 +118,10 @@ body {
   width: 1.6px;
   left: 359px;
   top: 21px;
-  border-radius: 0px;
+  border-radius: 0;
   opacity: 0.4;
   mix-blend-mode: normal;
-  background: #ffffff;
+  background: #fff;
 }
 
 .union {
@@ -130,7 +130,7 @@ body {
   width: 35.33px;
   left: 7.33px;
   top: 13.58px;
-  border-radius: 0px;
+  border-radius: 0;
 }
 
 .vector1 {
@@ -168,8 +168,8 @@ body {
   height: 563px;
   width: 513px;
   left: -106px;
-  top: 0px;
-  border-radius: 0px;
+  top: 0;
+  border-radius: 0;
 }
 
 .ellipse1 {
@@ -180,7 +180,7 @@ body {
   left: -106px;
   top: 97px;
   bottom: 5158;
-  border-radius: 0px;
+  border-radius: 0;
   background: #edecff;
   filter: blur(50px);
 }
@@ -191,9 +191,9 @@ body {
   width: 68px;
   left: 339px;
   top: 495px;
-  border-radius: 0px;
+  border-radius: 0;
   bottom: 5158;
-  border-radius: 0px;
+  border-radius: 0;
   background: #edecff;
   filter: blur(50px);
 }
@@ -202,22 +202,22 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0px;
+  padding: 0;
   position: static;
   height: 194px;
   width: 360px;
   left: 24px;
   right: 24px;
   top: 40px;
-  border-radius: 0px;
+  border-radius: 0;
 }
 
 .primary-text {
   position: static;
   width: 327px;
   height: 55px;
-  left: 0px;
-  top: 0px;
+  left: 0;
+  top: 0;
   font-family: Roboto;
   font-size: 48px;
   font-style: bold;
@@ -239,7 +239,7 @@ body {
   font-style: normal;
   font-weight: 500;
   line-height: 44px;
-  letter-spacing: 0em;
+  letter-spacing: 0;
   text-align: center;
   padding: 40px;
   color: #edecff;
@@ -249,27 +249,27 @@ body {
   position: static;
   width: 310px;
   height: 180px;
-  left: 0px;
-  top: 0px;
+  left: 0;
+  top: 0;
   justify-content: space-evenly;
   font-family: Roboto;
   font-size: 20px;
   font-style: italic;
   font-weight: 400;
   line-height: 28px;
-  letter-spacing: 0em;
+  letter-spacing: 0;
   text-align: center;
   color: #c8c8d4;
 }
 
 .vector4 {
   position: absolute;
-  height: 0px;
+  height: 0;
   width: 327px;
   left: 24px;
   right: 24px;
   top: 536px;
   bottom: 4879px;
-  border-radius: 0px;
+  border-radius: 0;
   border: 2px solid#646369;
 }
