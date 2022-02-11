@@ -91,33 +91,24 @@ body {
 }
 
 .primary-text {
-  position: static;
-  width: 327px;
-  height: 55px;
-  left: 0;
-  top: 0;
-  font-size: 48px;
-  font-weight: 700;
+  /* position: static; */
+  font-size: 50px;
+  font-weight: 800;
   font-style: normal;
-  line-height: 72px;
-  letter-spacing: 0.37px;
+  line-height: 20px;
+  letter-spacing: 0.57px;
   text-align: center;
   color: #7d73fc;
 }
 
 .supporting-text {
-  position: static;
   width: 327px;
-  height: 87px;
-  left: 0;
-  top: 70px;
   font-size: 32px;
   font-style: normal;
   font-weight: 500;
-  line-height: 44px;
+  line-height: 4px;
   letter-spacing: 0;
   text-align: center;
-  padding: 40px;
   color: #edecff;
 }
 
