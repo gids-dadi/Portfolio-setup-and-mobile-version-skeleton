@@ -11,13 +11,13 @@ body {
 
 
 .template5-main-mobile {
+    position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 120px 24px;
 
     background: #191765;
-    position: relative;
     width: 375px;
     height: 5415px;
 }
@@ -34,8 +34,8 @@ body {
     align-items: center;
     text-align: center;
     line-height: 16px;
-    /* padding-bottom: 20px; */
-    /* border: #ffffff solid 1px; */
+    padding-bottom: 20px;
+
 }
 
 .time {
@@ -43,15 +43,15 @@ body {
     width: 50px;
     height: 16px;
     left: 5px;
-    top: calc(15% - 16px/2 + 0.5px);
+    top: 16px;
+    /* top: calc(15% - 16px/2 + 0.5px); */
 }
 
 .name {
     position: static;
-    width: 81px;
-    height: 16px;
-    left: 10px;
-    top: 10px;
+
+    padding-top: 70px;
+    padding-left: 10px;
 }
 
 .Cellular_Connection-path1 {
@@ -94,40 +94,6 @@ body {
     background: #ffffff;   
 }
 
-.wifi-path1 {
-    position: absolute;
-    width: 4.63px;
-    height: 3.40px;
-    top: 25.0px;
-    left: 321.02px;
-    right: 49.36px;
- 
-    border-radius: 40%;
-    background: #ffffff;
-}
-
-.wifi-path2 {
-    position: absolute;
-    width: 9.95px;
-    height: 3.65px;
-    top: 21.20px;
-    left: 321.02px;
-    right: 46.69px;
-    border-radius: 40%;
-    background: #ffffff;
-  
-}
-
-.wifi-path3 {
-    position: absolute;
-    width: 15.27px;
-    height: 4.74px;
-    top: 17.40px;
-    left: 315.69px;
-    right: 44.03px;
-    border-radius: 40%;
-    background: #ffffff;
-}
 
 .battery-border {
 position: absolute;
@@ -229,6 +195,20 @@ border-radius: 0px;
 background: #EDECFF;
 filter: blur(50px);
 }
+
+.ellipse2 {
+    position: absolute;
+    height: 68px;
+    width: 68px;
+    left: 339px;
+    top: 495px;
+    border-radius: 0px;    
+bottom: 5158;
+border-radius: 0px;
+background: #EDECFF;
+filter: blur(50px);
+}
+
 
 .headline {
     display: flex;
