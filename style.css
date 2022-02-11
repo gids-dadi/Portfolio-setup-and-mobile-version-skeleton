@@ -1,52 +1,50 @@
 *{
-    padding: 0px;
-    margin: 0px;
-
+padding: 0px;
+margin: 0px;
 }
-
 body {
- overflow: hidden;
+overflow: hidden;
 font-family: 'Roboto', sans-serif;
 }
 .template5-main-mobile {
- position: relative;
+position: relative;
 display: flex;
 flex-direction: column;
- align-items: center;
- padding: 120px 24px;
- background: #191765;
- width: 375px;
- height: 5415px;
+align-items: center;
+padding: 120px 24px;
+background: #191765;
+width: 375px;
+height: 5415px;
 }
 .app-bar {
- position: absolute;
+position: absolute;
 width: 420px;
 height: 92px;
 left: 0px;
 top: 0px;
 display: flex;
- align-items: center;
- text-align: center;
+align-items: center;
+text-align: center;
 line-height: 16px;
- padding-bottom: 20px;
+padding-bottom: 20px;
 }
 .time {
- position: absolute;
- width: 50px;
- height: 16px;
+position: absolute;
+width: 50px;
+height: 16px;
 left: 5px;
 top: 16px;
 }
 .name {
- position: static;
- padding-top: 70px;
+position: static;
+padding-top: 70px;
 padding-left: 10px;
 }
 .Cellular_Connection-path1 {
- position: absolute;
+position: absolute;
 width: 3px;
 height: 4px;
- right: 78.33px;
+right: 78.33px;
 top: 24.33px;
 left: 293.67px;
 background: #ffffff;   
@@ -56,21 +54,21 @@ position: absolute;
 width: 3px;
 height: 6px;
 top: 22.33px;
- left: 298.33px;
+left: 298.33px;
 right: 73.67px;
 background: #ffffff;   
 }
 .Cellular_Connection-path3 {
- position: absolute;
+position: absolute;
 width: 3px;
 height: 8.33px;
 top: 20px;
 left: 303px;
- right: 69px;
+right: 69px;
 background: #ffffff;   
 }
 .Cellular_Connection-path4 {
- position: absolute;
+position: absolute;
 width: 3px;
 height: 10.67px;
 top: 17.67px;
@@ -80,7 +78,7 @@ background: #ffffff;
 }
 .battery-border {
 position: absolute;
- height: 11.33px;
+height: 11.33px;
 width: 22px;
 left: 338px;
 right: 17px;
@@ -113,52 +111,51 @@ opacity: 0.4;
 mix-blend-mode: normal;
 background: #ffffff;
 }
-
 .union {
 position: absolute;
- height: 22.83px;
+height: 22.83px;
 width: 35.33px;
 left: 7.33px;
 top: 13.58px;
 border-radius: 0px;
 }
 .vector1 {
-    position: absolute;
-    width: 33.33px;
-    top: 78.42px;
-    left: 301.33px;
-    right: 40.33%;
-    bottom: 5336.58%;
-    border: 2px solid #acb7c3;
+position: absolute;
+width: 33.33px;
+top: 78.42px;
+left: 301.33px;
+right: 40.33%;
+bottom: 5336.58%;
+border: 2px solid #acb7c3;
 }
 .vector2 {
-    position: absolute;
-    width: 33.33px;
-    top: 68px;
-    left: 301.33px;
-    right: 40.33%;
-    bottom: 5347%;
-    border: 2px solid #acb7c3;
+position: absolute;
+width: 33.33px;
+top: 68px;
+left: 301.33px;
+right: 40.33%;
+bottom: 5347%;
+border: 2px solid #acb7c3;
 }
 .vector3 {
-    position: absolute;
-    width: 33.33px;
-    top: 57.58px;
-    left: 301.33px;
-    right: 40.33%;
-    bottom: 5357.42%;
-    border: 2px solid #acb7c3;
+position: absolute;
+width: 33.33px;
+top: 57.58px;
+left: 301.33px;
+right: 40.33%;
+bottom: 5357.42%;
+border: 2px solid #acb7c3;
 }
 .top-circle {
-    position: absolute;
- height: 563px;
+position: absolute;
+height: 563px;
 width: 513px;
 left: -106px;
 top: 0px;
 border-radius: 0px;
 }
 .ellipse1 {
- position: absolute;
+position: absolute;
 height: 160px;
 width: 160px;
 right: 321px;
@@ -183,11 +180,11 @@ filter: blur(50px);
 }
 .headline {
 display: flex;
- flex-direction: column;
- align-items: center;
- padding: 0px;
- position: static;
- height: 194px;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+position: static;
+height: 194px;
 width: 360px;
 left: 24px;
 right: 24px;
@@ -195,10 +192,10 @@ top: 40px;
 border-radius: 0px;
 }
 .primary-text {
- position: static;
+position: static;
 width: 327px;
 height: 55px;
- left: 0px;
+left: 0px;
 top: 0px;
 font-family: Roboto;
 font-size: 48px;
@@ -210,12 +207,12 @@ text-align: center;
 color: #7D73FC;
 }
 .supporting-text {
- position: static;
+position: static;
 width: 327px;
- height: 87px;
- left: 0px;
+height: 87px;
+left: 0px;
 top: 70px;
- font-family: Roboto;
+font-family: Roboto;
 font-size: 32px;
 font-style: normal;
 font-weight: 500;
@@ -226,12 +223,12 @@ padding: 40px;
 color: #EDECFF;
 }
 .advert-text {
- position: static;
+position: static;
 width:  310px;
 height: 180px;
 left: 0px;
 top: 0px;
- justify-content: space-evenly;
+justify-content: space-evenly;
 font-family: Roboto;
 font-size: 20px;
 font-style: italic;
@@ -242,8 +239,8 @@ text-align: center;
 color: #c8c8d4;
 }
 .vector4 {
- position: absolute;
- height: 0px;
+position: absolute;
+height: 0px;
 width: 327px;
 left: 24px;
 right: 24px;
