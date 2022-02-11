@@ -104,37 +104,77 @@ body {
 .wifi-path1 {
     position: absolute;
     width: 4.63px;
-    height: 3.37px;
-    top: 24.92px;
+    height: 3.40px;
+    top: 25.0px;
     left: 321.02px;
     right: 49.36px;
  
-    border-radius: 25%;
+    border-radius: 40%;
     background: #ffffff;
 }
 
 .wifi-path2 {
     position: absolute;
     width: 9.95px;
-    height: 3.63px;
-    top: 21.12px;
+    height: 3.65px;
+    top: 21.20px;
     left: 321.02px;
     right: 46.69px;
-    border-radius: 25%;
+    border-radius: 40%;
     background: #ffffff;
+    /* fill: white; */
 }
 
 .wifi-path3 {
     position: absolute;
     width: 15.27px;
     height: 4.74px;
-    top: 17.33px;
+    top: 17.40px;
     left: 315.69px;
     right: 44.03px;
-    border-radius: 25%;
+    border-radius: 40%;
     background: #ffffff;
 }
 
+.battery-border {
+position: absolute;
+ height: 11.33px;
+width: 22px;
+left: 338px;
+right: 17px;
+top: 17.33px;
+border-radius: 2.66px;
+
+mix-blend-mode: normal;
+opacity: 0.35;
+border: 1px solid #ffffff;
+box-sizing: border-box;
+}
+
+.battery-capacity{
+ position: absolute;
+ width: 18px;
+height: 7.33px;
+left: 340px;
+top: 19.33px;
+right: 17.0px;
+border-radius: 1.33px;
+background: #ffffff;
+border-radius: 1.33333px;
+}
+
+.battery-cap {
+    position: absolute;
+    height: 5px;
+width: 1.60px;
+left: 359px;
+top: 21px;
+border-radius: 0px;
+opacity: 0.4;
+mix-blend-mode: normal;
+background: #ffffff;
+
+}
 
 
 
