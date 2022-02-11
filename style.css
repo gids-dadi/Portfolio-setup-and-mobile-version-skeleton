@@ -34,7 +34,7 @@ body {
     align-items: center;
     text-align: center;
     line-height: 16px;
-    border: #ffffff solid 1px;
+    /* border: #ffffff solid 1px; */
 }
 
 .time {
@@ -176,6 +176,44 @@ background: #ffffff;
 
 }
 
+.union {
+position: absolute;
+ height: 22.83px;
+width: 35.33px;
+left: 7.33px;
+top: 13.58px;
+border-radius: 0px;
+}
+
+.vector1 {
+    position: absolute;
+    width: 33.33px;
+    top: 78.42px;
+    left: 301.33px;
+    right: 40.33%;
+    bottom: 5336.58%;
+    border: 2px solid #acb7c3;
+}
+
+.vector2 {
+    position: absolute;
+    width: 33.33px;
+    top: 68px;
+    left: 301.33px;
+    right: 40.33%;
+    bottom: 5347%;
+    border: 2px solid #acb7c3;
+}
+
+.vector3 {
+    position: absolute;
+    width: 33.33px;
+    top: 57.58px;
+    left: 301.33px;
+    right: 40.33%;
+    bottom: 5357.42%;
+    border: 2px solid #acb7c3;
+}
 
 
 
