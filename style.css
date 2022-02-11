@@ -212,7 +212,6 @@ body {
   left: 0;
   top: 0;
   font-size: 48px;
-  font-style: bold;
   font-weight: 700;
   font-style: normal;
   line-height: 72px;
@@ -225,7 +224,7 @@ body {
   position: static;
   width: 327px;
   height: 87px;
-  left: 0px;
+  left: 0;
   top: 70px;
   font-size: 32px;
   font-style: normal;
@@ -244,7 +243,6 @@ body {
   left: 0;
   top: 0;
   justify-content: space-evenly;
-  font-family: Roboto;
   font-size: 20px;
   font-style: italic;
   font-weight: 400;
