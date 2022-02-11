@@ -102,7 +102,6 @@ body {
   left: 340px;
   top: 19.33px;
   right: 17px;
-  border-radius: 1.33px;
   background: #fff;
   border-radius: 1.33333px;
 }
@@ -174,7 +173,7 @@ body {
   right: 321px;
   left: -106px;
   top: 97px;
-  bottom: 5158;
+  bottom: 5158px;
   border-radius: 0;
   background: #edecff;
   filter: blur(50px);
@@ -187,8 +186,7 @@ body {
   left: 339px;
   top: 495px;
   border-radius: 0;
-  bottom: 5158;
-  border-radius: 0;
+  bottom: 5158px;
   background: #edecff;
   filter: blur(50px);
 }
@@ -213,10 +211,10 @@ body {
   height: 55px;
   left: 0;
   top: 0;
-  font-family: Roboto;
   font-size: 48px;
   font-style: bold;
   font-weight: 700;
+  font-style: normal;
   line-height: 72px;
   letter-spacing: 0.37px;
   text-align: center;
@@ -229,7 +227,6 @@ body {
   height: 87px;
   left: 0px;
   top: 70px;
-  font-family: Roboto;
   font-size: 32px;
   font-style: normal;
   font-weight: 500;
