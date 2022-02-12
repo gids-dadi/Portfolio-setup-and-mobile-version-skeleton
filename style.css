@@ -1,5 +1,4 @@
 body {
-  overflow: hidden;
   font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 4px;
@@ -88,7 +87,6 @@ a {
 }
 
 .headline {
-  /* position: static; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -96,7 +94,6 @@ a {
 }
 
 .primary-text {
-  /* position: static; */
   font-size: 50px;
   font-weight: 800;
   font-style: normal;
@@ -134,8 +131,73 @@ a {
   width: 327px;
   left: 24px;
   right: 24px;
-  top: 536px;
+  top: 540px;
   bottom: 4879px;
   border-radius: 0;
   border: 1px solid#646369;
+}
+
+.vector5 {
+  position: absolute;
+  height: 0;
+  width: 327px;
+  left: 24px;
+  right: 24px;
+  top: 1000px;
+  bottom: 4879px;
+  border-radius: 0;
+  border: 1px solid#646369;
+}
+
+.section-2 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: stretch;
+  height: 462.15px;
+  padding-left: 36px;
+  padding-top: 100px;
+  border-radius: 0;
+  color: #f5f5ff;
+}
+
+.section-2 h2 {
+  color: #9490ff;
+}
+
+.section-2 p {
+  font-size: 10px;
+  font-style: italic;
+}
+
+.language {
+  position: static;
+  width: 156px;
+  height: 214.15px;
+  left: 147px;
+}
+
+.frameworks {
+  position: static;
+  width: 156px;
+  height: 214.15px;
+  left: 147px;
+}
+
+.skills {
+  position: static;
+  width: 156px;
+  height: 214.15px;
+  left: 147px;
+}
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  padding-left: 60px;
+  padding-bottom: 60px;
+  align-items: center;
+  justify-content: space-between;
+  width: 200px;
+  color: #edecff;
 }
