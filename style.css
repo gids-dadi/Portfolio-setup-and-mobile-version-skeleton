@@ -49,6 +49,10 @@ body {
   color: #edecff;
 }
 
+a {
+  text-decoration: none;
+}
+
 .top-circle {
   position: absolute;
   height: 563px;
