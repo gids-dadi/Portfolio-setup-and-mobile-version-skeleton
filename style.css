@@ -146,7 +146,7 @@ a {
   width: 327px;
   left: 24px;
   right: 24px;
-  top: 1050px;
+  top: 1000px;
   bottom: 4879px;
   border-radius: 0;
   border: 1px solid#646369;
@@ -190,4 +190,15 @@ a {
   width: 156px;
   height: 214.15px;
   left: 147px;
+}
+
+.icons {
+  display: flex;
+  flex-direction: row;
+  padding-left: 60px;
+  padding-bottom: 60px;
+  align-items: center;
+  justify-content: space-between;
+  width: 200px;
+  color: #edecff;
 }
