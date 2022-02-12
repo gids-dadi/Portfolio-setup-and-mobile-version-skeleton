@@ -210,7 +210,6 @@ a {
   flex-flow: row;
   padding-left: 180px;
   padding-bottom: 50px;
-  letter-spacing: px;
   color: #edecff;
 }
 
@@ -232,7 +231,6 @@ a {
   width: 327px;
   left: 24px;
   right: 24px;
-  top: 14s23px;
   bottom: 4879px;
   border-radius: 0;
   border: 1px solid#646369;
@@ -249,7 +247,8 @@ a {
 }
 
 .my-work-1 p {
-  font-family: Inter;
+  font-family: 'Harmattan', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -268,7 +267,7 @@ a {
   line-height: 50px;
   font-style: normal;
   font-weight: normal;
-  line-height: 28px;
+  /* line-height: 28px; */
   font-size: 10px;
 }
 
@@ -296,7 +295,8 @@ a {
 }
 
 .my-work-2 p {
-  font-family: Inter;
+  font-family: 'Harmattan', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -355,7 +355,6 @@ a {
 .contact-text p {
   font-family: 'Harmattan', sans-serif;
   font-family: 'Roboto', sans-serif;
-
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
@@ -371,6 +370,7 @@ form {
   padding: 20px;
   padding-top: 30px;
 }
+
 ul {
   list-style: none;
   padding: 0;
