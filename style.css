@@ -156,19 +156,22 @@ a {
   flex-wrap: wrap;
   align-items: stretch;
   height: 462.15px;
-  width: 250;
+  width: 250px;
   padding-left: 36px;
   padding-top: 100px;
-  border-radius: 0px;
+  border-radius: 0;
   color: #f5f5ff;
 }
+
 .section-2 h2 {
   color: #9490ff;
 }
+
 .section-2 p {
   font-size: 10px;
   font-style: italic;
 }
+
 .language {
   position: static;
   width: 156px;
@@ -235,6 +238,7 @@ a {
   border-radius: 0;
   border: 1px solid#646369;
 }
+
 .my-work-1 {
   position: static;
   padding-left: 24px;
@@ -380,6 +384,7 @@ label {
   text-align: center;
   color: #edecff;
 }
+
 input,
 textarea {
   font: 1em sans-serif;
@@ -387,6 +392,7 @@ textarea {
   box-sizing: border-box;
   border: 1px solid #999;
 }
+
 textarea {
   height: 200px;
 }
