@@ -1,5 +1,4 @@
 body {
-  /* overflow: hidden; */
   font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 4px;
@@ -158,19 +157,21 @@ a {
   flex-wrap: wrap;
   align-items: stretch;
   height: 462.15px;
-  width: 250;
   padding-left: 36px;
   padding-top: 100px;
-  border-radius: 0px;
+  border-radius: 0;
   color: #f5f5ff;
 }
+
 .section-2 h2 {
   color: #9490ff;
 }
+
 .section-2 p {
   font-size: 10px;
   font-style: italic;
 }
+
 .language {
   position: static;
   width: 156px;
