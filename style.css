@@ -87,7 +87,6 @@ a {
 }
 
 .headline {
-  /* position: static; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -95,7 +94,6 @@ a {
 }
 
 .primary-text {
-  /* position: static; */
   font-size: 50px;
   font-weight: 800;
   font-style: normal;
