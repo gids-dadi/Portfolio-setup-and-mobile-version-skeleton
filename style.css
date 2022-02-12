@@ -261,13 +261,13 @@ a {
   height: 236px;
   background: linear-gradient(0deg, #f9f9f9, #f9f9f9);
 }
+
 .tech-used {
   width: 320px;
   word-spacing: 20px;
   line-height: 50px;
   font-style: normal;
   font-weight: normal;
-  /* line-height: 28px; */
   font-size: 10px;
 }
 
@@ -315,7 +315,8 @@ a {
 }
 
 .my-work-3 p {
-  font-family: Inter;
+  font-family: 'Harmattan', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
